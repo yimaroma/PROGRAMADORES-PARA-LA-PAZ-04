@@ -1,1 +1,18 @@
+Pregunta 1 — Selección múltiple
+¿Cuál de las siguientes opciones describe mejor qué es la ciudadanía digital?
+A. El uso de internet únicamente para entretenimiento
+B. El uso responsable de la tecnología para informarse, participar y compartir información de manera ética (X)
+C. El uso de redes sociales sin restricciones
+D. El uso exclusivo de software comercial
 
+¿Cuál es la razón principal por la que es importante verificar la información antes de compartirla en internet?
+A. Para que la publicación tenga más reacciones
+B. Para evitar consumir más datos móviles
+C. Para evitar difundir información falsa o engañosa(X)
+D. Para que la publicación sea más extensa
+
+¿Cuál de las siguientes opciones define mejor un algoritmo?
+A. Una aplicación móvil
+B. Una lista de pasos ordenados para resolver un problema(X)
+C. Una carpeta del computador
+D. Una red social
